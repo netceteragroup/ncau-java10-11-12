@@ -17,6 +17,10 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
           <release>12</release>
+          <compilerArgs>
+            <arg>-h</arg>
+            <arg>target/headers</arg>
+          </compilerArgs>
         </configuration>
       </plugin>
     </plugins>

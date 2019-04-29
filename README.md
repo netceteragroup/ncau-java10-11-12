@@ -2,7 +2,9 @@ NCAU Java 10, 11, 12
 ==========================
 
 # Companion code for the NCAU "Java 10, 11, 12".
-TBD
+
+ * the `newwithi101112` module contains code that demonstrates new APIs with Java 10, 11 & 12
+   * `src/main/sh` contains demos for the single source file launch and the shebang launch
 
 # Further Readings
 

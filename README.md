@@ -56,6 +56,10 @@ NCAU Java 10, 11, 12
 [GlassFish-Corba](https://javaee.github.io/glassfish-corba/)  
 [JacORB](https://www.jacorb.org/)
 
+### Alternative application packagers
+[jlink](https://docs.oracle.com/javase/10/tools/jlink.html)  
+[JEP 343](https://openjdk.java.net/jeps/343)
+
 ### Misc
 [Java Almanac](https://github.com/marchof/java-almanac/)
 

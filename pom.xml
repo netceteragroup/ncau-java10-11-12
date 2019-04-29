@@ -52,10 +52,9 @@
     <tag>HEAD</tag>
   </scm>
   
-  <!-- TBD
   <modules>
+    <module>newwith10-11-12</module>
   </modules>
-  -->
 
   <build>
     <plugins>

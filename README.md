@@ -68,3 +68,11 @@ NCAU Java 10, 11, 12
 ### Misc
 [Java Almanac](https://github.com/marchof/java-almanac/)
 
+### Application Class Data Sharing
+[Class Data Sharing, Sharing Economy in the HotSpot VM](https://archive.fosdem.org/2018/schedule/event/class_data_sharing/)
+[cl4cds](https://simonis.github.io/cl4cds/)
+[Reducing WildFly Startup Time and Footprint with AppCDS](https://marschall.github.io/2018/02/18/wildfly-appcds.html)
+
+### Mission Control
+[Java Mission Control 6.0 Tutorial](http://hirt.se/downloads/oracle/JMC6Tutorial/JMC6Tutorial.pdf)
+

@@ -53,20 +53,25 @@ NCAU Java 10, 11, 12
 346: [Promptly Return Unused Committed Memory from G1](https://openjdk.java.net/jeps/346)
 
 ### Alternative CORBA implementations
-[GlassFish-Corba](https://javaee.github.io/glassfish-corba/)  
-[JacORB](https://www.jacorb.org/)
+
+- [GlassFish-Corba](https://javaee.github.io/glassfish-corba/)  
+- [JacORB](https://www.jacorb.org/)
 
 ### Alternative application packagers
-[jlink](https://docs.oracle.com/javase/10/tools/jlink.html)  
-[JEP 343](https://openjdk.java.net/jeps/343)
+
+- [jlink](https://docs.oracle.com/javase/10/tools/jlink.html)  
+- [JEP 343](https://openjdk.java.net/jeps/343)
 
 ### Nashorn alternatives
-[Rhino](https://developer.mozilla.org/de/docs/Rhino)  
-[Migration guide from Nashorn to GraalVM JavaScript](https://github.com/graalvm/graaljs/blob/master/docs/user/NashornMigrationGuide.md)  
-[Oracle GraalVM announces support for Nashorn migration](https://medium.com/graalvm/oracle-graalvm-announces-support-for-nashorn-migration-c04810d75c1f)  
+
+- [Rhino](https://developer.mozilla.org/de/docs/Rhino)  
+- [Migration guide from Nashorn to GraalVM JavaScript](https://github.com/graalvm/graaljs/blob/master/docs/user/NashornMigrationGuide.md)  
+- [Oracle GraalVM announces support for Nashorn migration](https://medium.com/graalvm/oracle-graalvm-announces-support-for-nashorn-migration-c04810d75c1f)  
 
 ### Misc
-[Java Almanac](https://github.com/marchof/java-almanac/)
+
+- [Java Almanac](https://github.com/marchof/java-almanac/)
+- [JDK 12 Security Enhancements](https://seanjmullan.org/blog/2019/03/19/jdk12)
 
 ### Application Class Data Sharing
 
@@ -78,5 +83,8 @@ NCAU Java 10, 11, 12
 
 - [Java Mission Control 6.0 Tutorial](http://hirt.se/downloads/oracle/JMC6Tutorial/JMC6Tutorial.pdf)
 
+### -XX:+AggressiveOpts
 
+- [What flags are enabled by -XX:+AggressiveOpts on Sun JRE 1.6u20?](https://stackoverflow.com/questions/2959878/what-flags-are-enabled-by-xxaggressiveopts-on-sun-jre-1-6u20)
+- [Java’s -XX:+AggressiveOpts: Can it slow you down?](https://www.opsian.com/blog/aggressive-opts/)
 

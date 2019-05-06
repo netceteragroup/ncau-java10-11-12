@@ -72,6 +72,14 @@ javafx
 [Migration guide from Nashorn to GraalVM JavaScript](https://github.com/graalvm/graaljs/blob/master/docs/user/NashornMigrationGuide.md)  
 [Oracle GraalVM announces support for Nashorn migration](https://medium.com/graalvm/oracle-graalvm-announces-support-for-nashorn-migration-c04810d75c1f)  
 
+### JFR Demos
+[JFR Demo](https://github.com/marschall/jfr-demo) 
+[JFR Maven Extension](https://github.com/marschall/jfr-maven-extension) 
+[JUnit JFR](https://github.com/marschall/junit-jfr) 
+[Hibernate JFR](https://github.com/marschall/hibernate-jfr) 
+[JFR JdbcTemplate](https://github.com/marschall/jfr-jdbctemplate) 
+[JFR JDBC](https://github.com/marschall/jfr-jdbc)
+
 ### Misc
 [Zulu Mission Control](https://www.azul.com/products/zulu-mission-control/)  
 [Java Mission Control](https://jdk.java.net/jmc/)  

@@ -61,16 +61,18 @@ NCAU Java 10, 11, 12
 [jlink](https://docs.oracle.com/javase/10/tools/jlink.html)  
 [JEP 343](https://openjdk.java.net/jeps/343)
 
-#### Misc
-pack200
-java packager
-javafx
-
 ### Nashorn alternatives
+<<<<<<< HEAD
 [Rhino](https://developer.mozilla.org/de/docs/Rhino)  
 [J2V8](https://github.com/eclipsesource/J2V8)  
 [Migration guide from Nashorn to GraalVM JavaScript](https://github.com/graalvm/graaljs/blob/master/docs/user/NashornMigrationGuide.md)  
 [Oracle GraalVM announces support for Nashorn migration](https://medium.com/graalvm/oracle-graalvm-announces-support-for-nashorn-migration-c04810d75c1f)  
+=======
+
+- [Rhino](https://developer.mozilla.org/de/docs/Rhino)  
+- [Migration guide from Nashorn to GraalVM JavaScript](https://github.com/graalvm/graaljs/blob/master/docs/user/NashornMigrationGuide.md)  
+- [Oracle GraalVM announces support for Nashorn migration](https://medium.com/graalvm/oracle-graalvm-announces-support-for-nashorn-migration-c04810d75c1f)  
+>>>>>>> c59c44c517c0be39fed86fcbf0f5e7c952a259f8
 
 ### JFR Demos
 [JFR Demo](https://github.com/marschall/jfr-demo) 
@@ -81,7 +83,28 @@ javafx
 [JFR JDBC](https://github.com/marschall/jfr-jdbc)
 
 ### Misc
+<<<<<<< HEAD
 [Zulu Mission Control](https://www.azul.com/products/zulu-mission-control/)  
 [Java Mission Control](https://jdk.java.net/jmc/)  
 [Java Almanac](https://github.com/marchof/java-almanac/)
+=======
+
+- [Java Almanac](https://github.com/marchof/java-almanac/)
+- [JDK 12 Security Enhancements](https://seanjmullan.org/blog/2019/03/19/jdk12)
+
+### Application Class Data Sharing
+
+- [Class Data Sharing, Sharing Economy in the HotSpot VM](https://archive.fosdem.org/2018/schedule/event/class_data_sharing/)
+- [cl4cds](https://simonis.github.io/cl4cds/)
+- [Reducing WildFly Startup Time and Footprint with AppCDS](https://marschall.github.io/2018/02/18/wildfly-appcds.html)
+
+### Mission Control
+
+- [Java Mission Control 6.0 Tutorial](http://hirt.se/downloads/oracle/JMC6Tutorial/JMC6Tutorial.pdf)
+
+### -XX:+AggressiveOpts
+
+- [What flags are enabled by -XX:+AggressiveOpts on Sun JRE 1.6u20?](https://stackoverflow.com/questions/2959878/what-flags-are-enabled-by-xxaggressiveopts-on-sun-jre-1-6u20)
+- [Java’s -XX:+AggressiveOpts: Can it slow you down?](https://www.opsian.com/blog/aggressive-opts/)
+>>>>>>> c59c44c517c0be39fed86fcbf0f5e7c952a259f8
 

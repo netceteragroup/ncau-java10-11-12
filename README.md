@@ -52,19 +52,28 @@ NCAU Java 10, 11, 12
 344: [Abortable Mixed Collections for G1](https://openjdk.java.net/jeps/344)  
 346: [Promptly Return Unused Committed Memory from G1](https://openjdk.java.net/jeps/346)
 
-### Alternative CORBA implementations
+### Removed 
+#### Alternative CORBA implementations
 [GlassFish-Corba](https://javaee.github.io/glassfish-corba/)  
 [JacORB](https://www.jacorb.org/)
 
-### Alternative application packagers
+#### Alternative application packagers
 [jlink](https://docs.oracle.com/javase/10/tools/jlink.html)  
 [JEP 343](https://openjdk.java.net/jeps/343)
 
+#### Misc
+pack200
+java packager
+javafx
+
 ### Nashorn alternatives
 [Rhino](https://developer.mozilla.org/de/docs/Rhino)  
+[J2V8](https://github.com/eclipsesource/J2V8)  
 [Migration guide from Nashorn to GraalVM JavaScript](https://github.com/graalvm/graaljs/blob/master/docs/user/NashornMigrationGuide.md)  
 [Oracle GraalVM announces support for Nashorn migration](https://medium.com/graalvm/oracle-graalvm-announces-support-for-nashorn-migration-c04810d75c1f)  
 
 ### Misc
+[Zulu Mission Control](https://www.azul.com/products/zulu-mission-control/)  
+[Java Mission Control](https://jdk.java.net/jmc/)  
 [Java Almanac](https://github.com/marchof/java-almanac/)
 

@@ -1,4 +1,4 @@
-#!/usr/bin/java --source 12
+#!/usr/bin/java --source 11
 public class Shebang {
 
   public static void main(String[] args) {

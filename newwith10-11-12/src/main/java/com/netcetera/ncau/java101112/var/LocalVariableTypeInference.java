@@ -1,3 +1,5 @@
+package com.netcetera.ncau.java101112.var;
+
 import static java.lang.Math.abs;
 
 import java.util.ArrayList;
@@ -61,8 +63,7 @@ public class LocalVariableTypeInference {
   void aJava11StyleMethodWithALambda() {
 
     // with Java 11 var can be used for implicitly typed lambda parameters
-    // note: final and annotations supported on implicitly typed lambda parameters
-    IntStream.of(1, 2).map((@TypeAnnotation final var i) -> i * 42).forEach(System.out::println);
+    IntStream.of(1, 2).map((@TypeAnnotation var i) -> i * 42).forEach(System.out::println);
 
   }
 
